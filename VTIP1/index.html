@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Слайдер</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="slider">
+        <div class="slide active"><img src="logo.webp"></div>
+        <div class="slide"><img src="pass.webp"></div>
+        <div class="slide"><img src="zubr.webp"></div>
+    </div>
+    <div id="message" style="display: none;"></div>
+    <input type="number" id="interval" placeholder="Интервал (мс)" />
+    <button id="start">Запустить</button>
+    <button id="resume">Продолжить</button>
+    <button id="stop">Остановить</button>
+    <script src="script.js"></script>
+</body>
+</html>
