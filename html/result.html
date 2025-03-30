@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <h1>Результаты обработки</h1>
+    <ul id="names-list"></ul>
+    <script>
+        fetch('/get-names')
+            .then(response => response.json())
+            .then(({ processed }) => {
+                document.getElementById('names-list').innerHTML = processed.map(name => `<li>${name}</li>`).join('');
+            });
+    </script>
+</body>
+</html>
