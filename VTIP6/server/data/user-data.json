@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Иван Петров",
+    "address": "ул. Центральная, 15",
+    "age": 32,
+    "position": "Разработчик",
+    "fontSize": "medium"
+  },
+  {
+    "name": "Елена Смирнова",
+    "address": "пр. Победы, 88",
+    "age": 28,
+    "position": "Дизайнер",
+    "fontSize": "small"
+  },
+  {
+    "name": "Алексей Козлов",
+    "address": "ул. Садовая, 7",
+    "age": 41,
+    "position": "Менеджер",
+    "fontSize": "large"
+  },
+  {
+    "name": "Ольга Новикова",
+    "address": "пер. Школьный, 3",
+    "age": 25,
+    "position": "Тестировщик",
+    "fontSize": "small"
+  },
+  {
+    "name": "Дмитрий Волков",
+    "address": "ул. Лесная, 33",
+    "age": 35,
+    "position": "DevOps",
+    "fontSize": "medium"
+  },
+  {
+    "name": "Анна Кузнецова",
+    "address": "пр. Космонавтов, 12",
+    "age": 29,
+    "position": "Аналитик",
+    "fontSize": "medium"
+  },
+  {
+    "name": "Сергей Иванов",
+    "address": "ул. Речная, 5",
+    "age": 45,
+    "position": "Архитектор",
+    "fontSize": "large"
+  },
+  {
+    "name": "Мария Соколова",
+    "address": "ул. Горная, 9",
+    "age": 31,
+    "position": "Продукт-менеджер",
+    "fontSize": "small"
+  },
+  {
+    "name": "Павел Морозов",
+    "address": "ул. Парковая, 17",
+    "age": 27,
+    "position": "Frontend-разработчик",
+    "fontSize": "medium"
+  },
+  {
+    "name": "Екатерина Ветрова",
+    "address": "пр. Солнечный, 21",
+    "age": 38,
+    "position": "Team Lead",
+    "fontSize": "large"
+  },
+  {
+    "name": "Артём Белов",
+    "address": "ул. Зеленая, 4",
+    "age": 40,
+    "position": "CTO",
+    "fontSize": "medium"
+  },
+  {
+    "name": "Наталья Орлова",
+    "address": "ул. Снежная, 11",
+    "age": 33,
+    "position": "HR",
+    "fontSize": "small"
+  },
+  {
+    "name": "Михаил Крылов",
+    "address": "пр. Ленина, 56",
+    "age": 50,
+    "position": "CEO",
+    "fontSize": "large"
+  },
+  {
+    "name": "Виктория Жукова",
+    "address": "ул. Полевая, 8",
+    "age": 26,
+    "position": "Маркетолог",
+    "fontSize": "small"
+  }
+]
